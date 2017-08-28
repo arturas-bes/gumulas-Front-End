@@ -1,12 +1,12 @@
 # Gumulas.lt
 
 ## Front-end tools: 
-[VisualCode (recommended) for whriting code TypeScript]:(https://code.visualstudio.com/)
-[GIT - (required) for teamwork]:(https://git-scm.com/)
-[npm - (required) for package work]:(https://www.npmjs.com/get-npm)  
-[GitHub - (required account)]:(https://github.com)
-[SASS - work with styles. (using .sass)]:(http://sass-lang.com/) 
-[Node.js - (required)]:(https://nodejs.org/en/)
+[VisualCode]:(https://code.visualstudio.com/) (recommended) for whriting code TypeScript .
+[GIT]:(https://git-scm.com/) (required) for teamwork .
+[npm]:(https://www.npmjs.com/get-npm) (required) for package work.  
+[GitHub]:(https://github.com) (required account).
+[SASS]:(http://sass-lang.com/) work with styles. (using .sass) 
+[Node.js]:(https://nodejs.org/en/) (required).
 
 ## App parts:
 
