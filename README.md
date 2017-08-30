@@ -20,3 +20,17 @@
 + Pages
 + Pipes
 + Services
+
+## Comment exemple
+    /* ===================================================
+                            Login
+    ====================================================== 
+    * Author -  Donatas Kuskys
+    * Date -  2017-08-30
+    * Function - Function(userName, password)
+    * Parameters - userName: string, password: string
+    * Description - If login data accepted return true else return false
+    * Return - true or false;
+    * Examples of Usage - 
+    * License - GPL v1
+    */
